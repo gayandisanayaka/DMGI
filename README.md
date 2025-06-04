@@ -1,8 +1,8 @@
 dmgi.github.io/
 │
-├── index.html              ← Main landing page
-├── privacy-policy.html     ← Privacy Policy
-├── terms-of-service.html   ← Terms of Service
-├── delete-data.html         ← User data deletion instructions
-├── style.css               ← Optional: for styling
-└── CNAME                   ← Optional: if using custom domain
+├── index.html         ← Main landing page with logo, menu, featured app
+├── apps.html          ← All your software tools (including this one)
+├── contact.html       ← Contact form + address + phone
+├── privacy-policy.html ← Privacy Policy
+├── terms-of-service.html ← Terms of Use
+└── style.css          ← Clean modern design
